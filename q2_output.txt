@@ -1,0 +1,10 @@
+parent(pid=2494): line 0
+child(pid=2495): line 0
+parent(pid=2494): line 1
+child(pid=2495): line 1
+parent(pid=2494): line 2
+child(pid=2495): line 2
+parent(pid=2494): line 3
+child(pid=2495): line 3
+parent(pid=2494): line 4
+child(pid=2495): line 4
